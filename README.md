@@ -1,4 +1,6 @@
-simple-dropdown
+Simple Dropdown
 ===============
 
-A simple and friendly CSS drop-down list.
+A friendly CSS drop-down list.
+
+Here's the simple demo: http://cdpn.io/HqICG
